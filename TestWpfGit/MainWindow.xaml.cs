@@ -27,7 +27,7 @@ namespace TestWpfGit
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hello World");
+            MessageBox.Show("Hello Amsterdam");
         }
     }
 }
